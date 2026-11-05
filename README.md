@@ -1,4 +1,4 @@
-# PDF RAG – Local Document Knowledge Base
+# RAG – Local Document Knowledge Base
 
 ## Overview
 
